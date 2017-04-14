@@ -52,6 +52,7 @@ GEM
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
+    rdiscount (2.2.0.1)
     ref (2.0.0)
     rouge (1.11.1)
     s3_website (2.16.0)
@@ -72,10 +73,10 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.3.1)
   jekyll-feed (~> 0.8.0)
-  kramdown (~> 1.13.0)
   rake (~> 11.3.0)
+  rdiscount (~> 2.2.0.1)
   s3_website (~> 2.16.0)
   therubyracer (~> 0.12.2)
 
 BUNDLED WITH
-   1.12.5
+   1.14.6
