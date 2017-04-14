@@ -1,0 +1,13 @@
+name: Simplicio.com
+markdown: rdiscount
+highligther: pygments
+timezone: America/Los_Angeles
+exclude: ['Gemfile', 'Gemfile.lock', '*.sublime-*', 'lib','vendor', 'Rakefile', 's3_website.yml']
+relative_permalinks: false
+url: https://simplicio.com
+author: Robert Simplicio
+gems:
+    - jekyll-feed
+sass:
+  style: compressed
+permalink: /:title/
