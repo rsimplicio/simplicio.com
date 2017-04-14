@@ -9,3 +9,4 @@ gzip:
   - .jpeg
   - .jpg
 s3_reduced_redundancy: false
+s3_endpoint: us-west-1
