@@ -1,7 +1,7 @@
 language: ruby
 branches:
   only: master
-script: bundle exec rake deploy
+script: bundle exec rake test deploy
 cache: bundler
 env:
   global:
