@@ -11,3 +11,4 @@ gems:
 sass:
   style: compressed
 permalink: /:title/
+google_analytics: UA-1924123-1
