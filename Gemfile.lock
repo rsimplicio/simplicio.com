@@ -25,7 +25,7 @@ GEM
     configure-s3-website (2.0.0)
       aws-sdk (~> 2)
       deep_merge (~> 1.0.0)
-    coveralls (0.8.20)
+    coveralls (0.8.21)
       json (>= 1.8, < 3)
       simplecov (~> 0.14.1)
       term-ansicolor (~> 1.3)
