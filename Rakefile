@@ -37,6 +37,6 @@ require 'html-proofer'
 
 task :test do
   sh "bundle exec jekyll build"
-  options = { :assume_extension => true, :check_opengraph => true }
+  options = { :assume_extension => true, :check_opengraph => true, :internal_domains => ['simplicio.com', 'www.simplicio.com']}
   HTMLProofer.check_directory("./_site", options).run
 end
