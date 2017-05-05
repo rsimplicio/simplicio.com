@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Why are you here?"
-date:   2017-05-04 
+date:   2017-05-04 18:00:00 -0700
 ---
-
-Why am I here? 
 
 I blame many people. 
 
